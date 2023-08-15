@@ -1,2 +1,1 @@
-# BoulderFinder
-Website for finding spots to climb at
+I was introduced to bouldering by a friend earlier this year.
