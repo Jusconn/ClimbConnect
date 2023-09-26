@@ -3,4 +3,5 @@ Hi! :))
 This project is a continuation/spin-off of a previous project of mine. I originally intended to just make a directory  
 of climbing spots in the area, but after all was said and done I was a bit dissatisfied so I've decided to aim bigger and pretty   
 much start from scratch. My endgoal for this project is to create a social media site for climbers to connect with eachother and share their climbs.  
-These logs will serve as my medium for going more in depth with certain design choices as well as walking through any features I may add and sort of documenting the journey of this project. Basically this is my way of keeping the README short.
+These logs will serve as my medium for going more in depth with certain design choices as well as walking through any features I may add and sort of documenting the journey of this project.   
+Basically this is my way of keeping the README short.
