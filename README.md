@@ -5,6 +5,3 @@ The goal of this project is to have a website that allows users to: <br>
   •make use of interactive map for finding spots <br> 
   •Share their climbs with others<br>
   •Connect with friends <br>
-
-My hope is to eventually implement these systems into a social media platform which mixes features from some of my favorite sites.
-  
