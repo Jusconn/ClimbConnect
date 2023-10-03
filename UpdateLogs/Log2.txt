@@ -1,4 +1,7 @@
 #Log 2
 Hi, This is my first real update on how the project is going. I've figured out  
 what I would like the app features to be and I've made some mockups of the home page  
-and profile screen using Figma. You can view the demo on the ReadMe.
+and profile screen using Figma. You can view the demo on the ReadMe. I figured the home page and  
+the profile screen were the first things I should make. The messages, search and new post  
+features are all pretty straightforward, but I do plan to draft them up before I code.  
+However, I want to start getting the database in order before that.
